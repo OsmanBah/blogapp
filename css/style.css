@@ -1,0 +1,69 @@
+body {
+	background-image:url("../img/prism.png");
+	color: grey;
+	font-size: 21px;
+	font-family: sans-serif;
+}
+h1 {
+	color: orange;
+}
+p {
+	color:gold;
+}
+div {
+	background: white;
+	color: green;
+	width: 500px;
+	margin: 20px;
+	padding: 30px;
+}
+ol {
+	color: blue;
+}
+img {
+	float: right;
+	margin: 20px;
+}
+
+.intro {
+	color: black;
+}
+
+.top-section {
+	background-image: url("../img/lovebeach.jpg");
+	background-size: cover;
+	height: 500px;
+	width: 600px;
+	margin: 20px;
+	padding: 200px;
+}
+
+.middle-section {
+	background-image: url("../img/heartart.jpg");
+	background-size: cover;
+	color: black;
+	margin: 20px;
+	padding: 30px;
+}
+/*this is a css box model*/
+
+/*
+	Margin; empty space around my element
+	border; a border/stroke/ around my element
+	Padding; empty space with background around my element.
+
+	all of these ADD on top of the width and height!
+*/
+
+.bottom-section {
+	background: white;
+	width: 220px;
+	height: 230px;
+
+	margin: 10px;
+	border-width: 10px;
+	border-color: maroon;
+	border-style: outset;
+
+	padding: 30px;
+}
