@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/OsmanBah/blogapp/issues"
   },
-  "homepage": "https://github.com/OsmanBah/blogapp#readme"
+  "homepage": "https://github.com/OsmanBah/blogapp#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  }
 }
