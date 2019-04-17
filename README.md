@@ -1,2 +1,2 @@
 # blogapp
-to share my experiences with the world
+to share my world with you.
